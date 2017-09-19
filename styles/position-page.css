@@ -1,5 +1,5 @@
 html { 
-  background: url(outerspace_landscape.jpeg) no-repeat center center fixed; 
+  background: url(../images/outerspace_landscape.jpeg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -41,7 +41,7 @@ nav{
 }
 ul{
   position: absolute;
-  top: 30px;
+  top: 0px;
     display: inline-block;
     list-style: none;
 }
